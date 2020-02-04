@@ -1,0 +1,14 @@
+namespace: sensu
+name: sensu_go
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies: {}
+repository: git@github.com:ansible-collection-migration/sensu.sensu_go.git
+documentation: https://github.com/ansible-collection-migration/sensu.sensu_go/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/sensu.sensu_go
+issues: https://github.com/ansible-collection-migration/sensu.sensu_go/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
